@@ -1,5 +1,7 @@
 # vitobele.github.io
 
+This repository is my notes learning to use git and github. To practice git, I updated and added some list of useful tools and stuff into the readme.md file
+
 [Tools](https://vitobele.github.io/tools/)
 
 ## Web Dev
